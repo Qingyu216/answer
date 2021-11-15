@@ -1,0 +1,21 @@
+{
+    "pages": [
+        "pages/login/index",
+        "pages/index/index",
+        "packageA/list/index",
+        "packageB/list/index",
+        "packageC/index/index"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "permission": {},
+    "usingComponents": {
+        "cu-custom": "/colorui/components/cu-custom"
+    },
+    "sitemapLocation": "sitemap.json"
+}
